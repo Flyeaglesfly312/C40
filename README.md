@@ -1,2 +1,2 @@
-# C40
-Creating the ellipse to show which player is yours and also fixed the positioning
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
